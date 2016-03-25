@@ -47,7 +47,6 @@
                 echo $this->Flash->render(); 
                 echo $this->Flash->render('auth', array('element' => 'Flash/error'));
                 echo $this->fetch('content');
-                echo $this->element('sql_dump');
             ?>
         </div>
         <!-- /#page-wrapper -->
