@@ -1,1 +1,1 @@
-# Cakephp SB Theme
+# CakePHP SB Theme
