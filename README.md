@@ -1,1 +1,1 @@
-# cakephp-themed-admin
+# Cakephp SB Theme
